@@ -1,0 +1,17 @@
+{
+  "name": "iso-weeks-kit",
+  "version": "0.1.0",
+  "description": "Dependency-free library for ISO-8601 week numbers and year-end edge cases.",
+  "type": "module",
+  "main": "src/index.js",
+  "exports": "./src/index.js",
+  "engines": {
+    "node": ">=20"
+  },
+  "scripts": {
+    "test": "node --test"
+  },
+  "keywords": [],
+  "license": "MIT",
+  "dependencies": {}
+}
